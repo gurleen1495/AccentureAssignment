@@ -1,0 +1,6 @@
+framework module Pods_AccentureAssessment {
+  umbrella header "Pods-AccentureAssessment-umbrella.h"
+
+  export *
+  module * { export * }
+}

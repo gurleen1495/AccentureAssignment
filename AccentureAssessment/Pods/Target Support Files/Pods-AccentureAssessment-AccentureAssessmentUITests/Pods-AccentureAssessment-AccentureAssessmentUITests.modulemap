@@ -1,0 +1,6 @@
+framework module Pods_AccentureAssessment_AccentureAssessmentUITests {
+  umbrella header "Pods-AccentureAssessment-AccentureAssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
